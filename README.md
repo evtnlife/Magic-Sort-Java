@@ -6,11 +6,11 @@ Implementar os métodos de ordenação:
 
 Nome prototipo: Magic Sort
 
-Inserção
-Seleção
-Bolha
-Radix Sort
-Merge Sort
-Shell Sort
-Heap Sort
-Quick Sort
+Insertion Sort</br>
+Selection Sort</br>
+Bubble Sort</br>
+Radix Sort</br>
+Merge Sort</br>
+Shell Sort</br>
+Heap Sort</br>
+Quick Sort</br>
